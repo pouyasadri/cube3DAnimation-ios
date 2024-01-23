@@ -14,7 +14,7 @@ To get started with this project, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/pouyasadri/SwiftUI-3D-Cube-Animation.git
-
+```
 Ensure you have Xcode installed on your Mac, as it's necessary to build and run SwiftUI projects.
 
 ## Prerequisites
